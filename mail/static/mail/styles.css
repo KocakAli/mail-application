@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+
+
+.grid{
+    display:grid;
+    grid-template: 75px / repeat(3, 1fr);
+    background-color: white;
+    border:1px solid lightgrey;
+    margin-top: 5px ;
+}
